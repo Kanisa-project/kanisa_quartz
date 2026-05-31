@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kanisa-project.github.io/kanisaShell
+  baseUrl: kanisa-project.github.io/kanisa_quartz
   ignorePatterns:
     - private
     - templates
