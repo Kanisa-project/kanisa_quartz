@@ -1,0 +1,1 @@
+   Texity is the input half of Texioty, this is where you can type commands and enter textual content. Each mode affects how texity parses the input, and also determines the auto-typed command for more intuitive.

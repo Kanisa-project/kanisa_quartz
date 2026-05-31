@@ -1,0 +1,1 @@
+`commands` is the simplest of beginner commands, as it has no arguments. It shows all available commands with their [[parts of a command#Light Description|Light Description]]. 

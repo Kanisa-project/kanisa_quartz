@@ -1,0 +1,1 @@
+  Social media has become more of a hunting grounds for bots and narrative pushers. I believe the original intention was just to reach out to anybody and everybody who wanted to participate.

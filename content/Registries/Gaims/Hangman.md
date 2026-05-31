@@ -1,0 +1,1 @@
+   Hangman is a game of guessing a single letter at a time, to guess the entire phrase before the man is hanged.

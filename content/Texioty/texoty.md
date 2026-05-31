@@ -1,0 +1,1 @@
+Texoty is the output half of Texioty, it displays any textual content. Primarily focusing on responding to user command input.

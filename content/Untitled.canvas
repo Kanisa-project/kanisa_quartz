@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"bcd298d3ff351095","type":"text","text":"Depictinator{}","x":-580,"y":-180,"width":180,"height":50},
+		{"id":"69ef1028323d0eb1","type":"text","text":"RanDexter-2110","x":-580,"y":-128,"width":180,"height":50},
+		{"id":"7982f384f1aa29db","type":"text","text":"sourceMTG.py","x":-1146,"y":-460,"width":158,"height":50},
+		{"id":"1ba63d79970f6046","type":"text","text":"magic_cards.db","x":-988,"y":-460,"width":178,"height":50},
+		{"id":"c5fd24bffce0290c","x":-810,"y":-460,"width":148,"height":50,"type":"text","text":"magics.json"},
+		{"id":"a0a3e321d90d0340","x":-1102,"y":-1340,"width":237,"height":50,"type":"text","text":"Texioty Environment"},
+		{"id":"5382c3ab5d01395d","x":-812,"y":-510,"width":146,"height":50,"type":"text","text":"digimons.json"},
+		{"id":"ab6c4f5a7812a052","type":"text","text":"sourceDGM.py","x":-1140,"y":-510,"width":154,"height":50},
+		{"id":"5521a1fdf543c5c1","x":-986,"y":-510,"width":174,"height":50,"type":"text","text":"digimon_cards.db"},
+		{"id":"b33a483792de0c3a","x":-1144,"y":-410,"width":158,"height":50,"type":"text","text":"sourceLRCA.py"},
+		{"id":"7b069ba232794e04","type":"text","text":"lorcana_cards.db","x":-986,"y":-410,"width":178,"height":50},
+		{"id":"f9cd755da0db0fe8","x":-808,"y":-410,"width":151,"height":50,"type":"text","text":"lorcanas.json"},
+		{"id":"f8542008f1e583bd","type":"text","text":"sourcePKM.py","x":-1146,"y":-360,"width":158,"height":50},
+		{"id":"b4ea3c513dd27d02","type":"text","text":"pokemon_cards.db","x":-988,"y":-360,"width":211,"height":50},
+		{"id":"2c8f2ac2d65b0aa1","x":-777,"y":-360,"width":172,"height":50,"type":"text","text":"pokemons.json"},
+		{"id":"eb241c25fc70401b","type":"text","text":"TCG LAB helper\n","x":-1146,"y":-570,"width":480,"height":60,"color":"6"},
+		{"id":"dcf1c376feced153","type":"text","text":"Repository","x":-1102,"y":-1290,"width":126,"height":60},
+		{"id":"85f87cbd93e90fbd","type":"text","text":"Registry","x":-976,"y":-1290,"width":111,"height":60},
+		{"id":"6245c5c390053b54","x":-494,"y":-1127,"width":115,"height":50,"type":"text","text":"Digiary"},
+		{"id":"abbf6bb317514d2a","x":-494,"y":-1077,"width":128,"height":50,"type":"text","text":"dear_sys,"},
+		{"id":"dd666be97240f8b2","x":-494,"y":-1027,"width":174,"height":50,"type":"text","text":"/until_next_time"},
+		{"id":"c0f7d8aba36e2e55","x":-494,"y":-977,"width":115,"height":50,"type":"text","text":"redear"},
+		{"id":"3a7c9198edc32c31","x":-379,"y":-1127,"width":92,"height":50,"type":"text","text":".diary/"}
+	],
+	"edges":[]
+}

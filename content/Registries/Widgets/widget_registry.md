@@ -1,0 +1,1 @@
+  A widget like [[IDUTC]] or [[Kinvow]] operate better with lines, shapes, and colors. 

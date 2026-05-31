@@ -1,0 +1,1 @@
+The gaim_registry allows for loading and running different games. Within [[Texioty/Texioty]], only text games can occur, within Kanisa Shell graphics can be introduced.
