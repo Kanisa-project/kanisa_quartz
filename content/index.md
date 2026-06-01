@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Kanisa
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This site was created by me in [Obsidian](https://obsidian.md), generated with [quartz](https://quartz.jzhao.xyz) and hosted on [github](https://www.github.com).
