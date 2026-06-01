@@ -4,14 +4,14 @@
 ## Non-API (LocalUsers)
 A non-API based promptaire is for creating digital assets or playing gaims. It focuses questions around creating a digital asset, it can also start a gaim loop for playing.
 
-|                         Promptaire Name                         | File creation |
-| :-------------------------------------------------------------: | :-----------: |
-|                          [[foto_worx]]                          |  .png/.jpeg   |
-|                            mov_init                             |     .gif      |
-|                           [[digiary]]                           |     .txt      |
-|                 [[profile_make\|profile_make]]                  |     .json     |
-|                                                                 |      .py      |
-| [[Texioty/Helpers/Promptaires/Local-API/Beep Boops/beep_boops]] |     .wav      |
+|        Promptaire Name         | File creation |
+| :----------------------------: | :-----------: |
+|         [[foto_worx]]          |  .png/.jpeg   |
+|            mov_init            |     .gif      |
+|          [[digiary]]           |     .txt      |
+| [[profile_make\|profile_make]] |     .json     |
+|                                |      .py      |
+|                                |     .wav      |
 
 
 > [!SIDENOTE] INNERTHOUGHT

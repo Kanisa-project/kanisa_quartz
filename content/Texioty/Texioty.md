@@ -5,14 +5,25 @@ This is the GUI that allows the TUI to exist, it is the main piece of Kanisa and
 
 There are many different modes, each letting texoty and texity behave in different manners. 
 
+## Repositories
+A repository is where any [[TexHelpers|helpers]] and databases are stored for easy access and sharing.
+
+
+> [!NOTE] Repositories
+> Repositories contain all helpers, whether fully developed or in development. These helpers are more sensitive and might cause external errors that could break kanisaShell. 
+
+
 ## Registries
-  Texioty has a registry dedicated to registries of [[TexHelpers|helpers]], including promptaires and widgets.
-  
+A [[Registries|registry]] makes a repository available for use within a [[Texioty]] environment.
+
+
+> [!NOTE] Registries
+> Registries contain fully featured helpers that are active and ready to be used in Texioty. The helpers may contain internal errors,  nothing that would break kanisaShell as a whole.
 
 # Modes
 
 ### Default
-This is the opening mode and allows commands to be ran from any available [[TexHelpers|helpers]]. When exiting any other mode, it automatically returns to default ready and waiting for the next command.
+This is the opening mode and allows commands to be ran from any available [[TexHelpers|helpers]]. When exiting any other mode, it automatically returns to default.
 
 ### Diary
 The digiary was a founding and original concept for this project.
