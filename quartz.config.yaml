@@ -262,7 +262,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: "blue-topaz"
+      mode: "both"
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
