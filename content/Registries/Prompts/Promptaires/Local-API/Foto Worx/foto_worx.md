@@ -1,4 +1,4 @@
-foto_worx is a [[BasePrompt|promptaire]] for taking an image and applying different filters and/or effects to it, then saving new outcomes of iterations. Themed after restaurant equipment, functions can change color, add shapes, move pixels or move pieces of the foto being worked with.
+foto_worx is a [[Prompts|promptaire]] for taking an image and applying different filters and/or effects to it, then saving new outcomes of iterations. Themed after restaurant equipment, functions can change color, add shapes, move pixels or move pieces of the foto being worked with.
 
 ## Equipment
 Each piece of equipment specializes in a part of manipulating the image.

@@ -1,5 +1,7 @@
+
+
 > [!NOTE] Title
-> The registries of a Texioty make up the repository for other Texioty environments to pull from
+> The registries of a Texioty make up the repository for other Texioty environments to pull from.
 
    
    
@@ -10,17 +12,17 @@
  - [[widget_registry]]
  - [[gaim_registry]]
  - [[prompt_registry]]
- - [[api_registry]]
+
 ## Command Registry
 The command registry holds all available commands between each of the prompters and widgets. It activates and deactivates commands based on which mode is currently active.
 
 ## Helper Registry
 The helper registry is the basis of [[#Prompt Registry]] and [[#Widget Registry]], seeing as they are both [[TexHelpers]].
  
-## Prompt Registry
-The prompt registry holds the TUI additions. [[BasePrompt|Promptaires]] keep the flow of texioty and ask questions/await responses. Any helper that asks multiple questions and can perform many tasks but doesn't have a GUI element, belongs in this registry.
+### Prompt Registry
+The prompt registry holds the TUI additions. [[Prompts|Promptaires]] keep the flow of texioty and ask questions/await responses. Any helper that asks multiple questions and can perform many tasks but doesn't have a GUI element, belongs in this registry.
 
-## Widget Registry
+### Widget Registry
  The widget registry holds the GUI additions. [[BaseWidget|Widgets]] allow for graphical advantages like images, animations, buttons, sliders and a lot of other options. If a helper has anything more than text, it belongs in this registry.
  
 ## Gaim Registry

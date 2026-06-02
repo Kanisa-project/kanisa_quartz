@@ -26,8 +26,14 @@ A [[Registries|registry]] makes a repository available for use within a [[Texiot
 This is the opening mode and allows commands to be ran from any available [[TexHelpers|helpers]]. When exiting any other mode, it automatically returns to default.
 
 ### Diary
-The digiary was a founding and original concept for this project.
+The [[digiary]] was a founding and original concept for this project.
+
+### Questionnaire
+A common mode type for [[Prompts|prompt]] helpers, it starts with an opening question and ends with a closing question.
+
+### Gaim
+Kind of like a questionnaire, with access to a database for scores and game info and an infinite loop.
 
 
 ### Coop
-A coop is where pijuns can congregate with messages from other texioty. It hosts a [[Gaim Idea|gaim]] or some other mode for other users to send bits of information.
+A coop is where pijuns can congregate with messages from other texioty. It hosts as a different mode, for other people to interact with a differently unique texioty environment.

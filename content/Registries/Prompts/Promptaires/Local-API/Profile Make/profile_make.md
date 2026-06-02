@@ -1,4 +1,4 @@
-profile_make is a [[BasePrompt|promptaire]] set up for making profiles of many kinds. Profiles come in many different capacities, and are used for a wide variety of tasks. A **user** profile allows a person to use certain features, while a tcg profile allows for trading card game shenanigans. 
+profile_make is a [[Prompts|promptaire]] set up for making profiles of many kinds. Profiles come in many different capacities, and are used for a wide variety of tasks. A **user** profile allows a person to use certain features, while a tcg profile allows for trading card game shenanigans. 
 
 ### Current profile types:
 
