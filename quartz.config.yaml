@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Unkempt
-      body: Unkempt
-      code: Unkempt
+      header: "Schibsted Grotesk"
+      body: "Source Sans Pro"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "#faf8f8"

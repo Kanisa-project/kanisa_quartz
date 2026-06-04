@@ -1,13 +1,14 @@
 tcg_lab is a promptaire about working with trading card games and the different elements of each game. 
 
 
-# TCGs
+## TCGs
    Any trading card game that has an available API is able to be made into a promptaire. I'm including the 5 major current ones; Magic the Gathering, Pokemon, YuGiOh, Lorcana and Digimon. 
 
-## Card Searching
-  [[downloader]] is the primary way of searching for cards to download and add to the local database. You can make a searching profile with [[profile_make#Downloader]]
-## Card Results
-   When searching for cards, you'll get a result that isn't normalized or standardized, the next step is to make sure it's easily read for use. Each different LAB will need to know what the difference between Lorcana's Ink vs MTG Mana is. A Monster from Yu-Gi-Oh is not the same type of monster from Digimon which is different from a Pokemon monster.
+### Card Searching
+  [[downloader]] profiles are the primary way of searching for cards to download and add to the local database. 
+  
+### Card Results
+   When searching for cards, any new found cards are added to a database, and attempts to download the card image.
 
 #### single_card
 #### card_batch

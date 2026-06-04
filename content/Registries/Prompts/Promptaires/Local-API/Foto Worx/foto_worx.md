@@ -1,10 +1,10 @@
-foto_worx is a [[Prompts|promptaire]] for taking an image and applying different filters and/or effects to it, then saving new outcomes of iterations. Themed after restaurant equipment, functions can change color, add shapes, move pixels or move pieces of the foto being worked with.
+foto_worx is a [[Prompts|promptaire]] for taking an image and applying different filters and/or effects to it, then saving new iterations of outcomes. Themed after restaurant equipment, functions can change color, add shapes, move pixels or move pieces of the image being worked with.
 
 ## Equipment
 Each piece of equipment specializes in a part of manipulating the image.
 
 #### Flattop - Flatop_XT 2200
-Square off some of the image and move it around, slide it or press it. Steam lids and grill weights with spatulas help this profile.
+Box off some of the image and move it around, slide it or squeeze it. Steam lids and grill weights with spatulas help this profile.
 
 | XT 2200 settings |    Type     |       Example        |                Explained                |
 | :--------------: | :---------: | :------------------: | :-------------------------------------: |
