@@ -1,8 +1,16 @@
 tcg_lab is a promptaire about working with trading card games and the different elements of each game. 
 
+`tcg_lab` `[TCG]` `[LAB]`
 
-## TCGs
-   Any trading card game that has an available API is able to be made into a promptaire. I'm including the 5 major current ones; Magic the Gathering, Pokemon, YuGiOh, Lorcana and Digimon. 
+
+## TCG
+Any trading card game that has an available API is able to be made into a promptaire. Accepted arguments are:
+ - magic
+ - lorcana
+ - digimon
+ - yugioh
+ - pokemon
+
 
 ### Card Searching
   [[downloader]] profiles are the primary way of searching for cards to download and add to the local database. 
@@ -15,8 +23,13 @@ tcg_lab is a promptaire about working with trading card games and the different 
 
 ---
 
-# LABs
-Laboratories are different ways of working with a TCG. There are decks to be generated, images depicted from cards, and puzzles made from lore.
+# LAB
+Laboratories are different ways of working with a TCG. There are decks to be generated, images depicted from cards, and puzzles made from lore. Accepted arguments are:
+ - depictinator
+ - downloader
+ - puzzler
+ - blender
+ - randexter
 
 
 |   Laboratory   |                                             Explanation                                             |

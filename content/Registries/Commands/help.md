@@ -18,7 +18,7 @@ Using the `(COMMAND_NAME)` argument gives you full details of the named command.
 | Command Name | Short Description                             |
 | ------------ | --------------------------------------------- |
 | [[welcome]]  | Shows a welcoming screen of the current mode. |
-| [[commands]] | Shows a list of all available commands.       |
+| [[Commands]] | Shows a list of all available commands.       |
 | [[help]]     | Shows a helping message, based on argument    |
 
 The number and names of commands full depend on the Texioty environment.

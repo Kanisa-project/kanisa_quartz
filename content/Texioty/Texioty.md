@@ -1,17 +1,10 @@
-This is the combination of [[texity]] and [[texoty]], a custom Command Line Interface that is being developed for the [[kanisaShell]].
-
-
-This is the GUI that allows the TUI to exist, it is the main piece of Kanisa and the backbone of creating within your own [[kNet]].
+This is the combination of [[texity]] and [[texoty]], a custom Command Line Interface that is being developed for the [[kanisaShell]]. It is the GUI that allows the TUI to exist, it is the main piece of kanisaShell.
 
 There are many different modes, each letting texoty and texity behave in different manners. 
 
 ## Repositories
 A repository is where any [[TexHelpers|helpers]] and databases are stored for easy access and sharing.
-
-
-> [!NOTE] Repositories
-> Repositories contain all helpers, whether fully developed or in development. These helpers are more sensitive and might cause external errors that could break kanisaShell. 
-
+Repositories contain all helpers, whether fully developed or in development. These helpers are more sensitive and might cause external errors that could break kanisaShell. 
 
 ## Registries
 A [[Registries|registry]] makes a repository available for use within a [[Texioty]] environment.

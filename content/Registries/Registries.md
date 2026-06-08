@@ -1,17 +1,11 @@
-
-
-> [!NOTE] Title
-> The registries of a Texioty make up the repository for other Texioty environments to pull from.
-
-   
-   
-   A registry contains multiple different things of a similar nature. It allows for better organizing what a specific [[Texioty]] environment can do. These are the first six and will come stock with Texioty:
+A registry can contain assets, helpers, or commands. It allows for better organizing what a specific [[Texioty]] environment can do. These are the first six and will come stock with Texioty:
 
  - [[command_registry]]
  - [[helper_registry]]
  - [[widget_registry]]
  - [[gaim_registry]]
  - [[prompt_registry]]
+ - [[asset_registry]]
 
 ## Command Registry
 The command registry holds all available commands between each of the prompters and widgets. It activates and deactivates commands based on which mode is currently active.

@@ -5,4 +5,4 @@
 
 
 ### Active Commands
-   Active commands are actively available commands.
+Active commands are actively available commands. There are three commands that are always active
